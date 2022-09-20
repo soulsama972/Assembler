@@ -1,0 +1,13 @@
+FILE input_output_exmples/not_valid_exmple/test2.as status:
+invalid opration can only use r10-15 line:9
+symbol name not start in alphabetical line:11
+invalid addressing mode line11
+invalid syntex line:12
+invalid number line:17
+.entry was found without decleartion of its symbol line:1
+symbol was not found at symbol table line:3
+symbol was not found at symbol table line:7
+invalid opration can only use r10-15 line:9
+symbol name not start in alphabetical line:11
+invalid addressing mode line11
+invalid syntex line:12

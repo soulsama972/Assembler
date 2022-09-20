@@ -1,0 +1,3 @@
+FILE input_output_exmples/valid_exmple/test.as status:
+OK
+
